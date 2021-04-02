@@ -1,9 +1,11 @@
-import '../styles/globals.css';
+import Layout from '../components/Layout';
 import { ChakraProvider } from '@chakra-ui/react';
 
 const WTApp = ({ Component, pageProps }) => (
   <ChakraProvider>
-    <Component {...pageProps} />
+    <Layout>
+      <Component {...pageProps} />
+    </Layout>
   </ChakraProvider>
 )
 
