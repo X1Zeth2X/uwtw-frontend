@@ -1,4 +1,4 @@
-# Unofficial WarThunder Wiki (Client)
+# Unofficial WarThunder Wiki (Frontend)
 Client side code for Unofficial WarThunder Wiki platform.
 
 ## Minimum Viable Product
