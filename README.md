@@ -5,7 +5,8 @@ Client side code for Unofficial WarThunder Wiki platform.
 Will organize this later on as it grows.
 
 - [ ] Initial pages. (M/P)
-  - [ ] Index
+  - [ ] Index.
+  - [ ] Nations and Vehicle.
   - [ ] Read vehicle information.
 - [ ] Page Navigation. (M/P)
 - [ ] API integration.
