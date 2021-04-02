@@ -1,6 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Unofficial WarThunder Wiki (Client)
+Client side code for Unofficial WarThunder Wiki platform.
 
-## Getting Started
+## Minimum Viable Product
+Will organize this later on as it grows.
+
+- [ ] Initial pages. (M/P)
+  - [ ] Index
+  - [ ] Read vehicle information.
+- [ ] Page Navigation. (M/P)
+- [ ] API integration.
+  - [ ] Fetching vehicle data.
+  - [ ] Authentication.
+
+## Getting Started (Next.js generated stuff)
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
